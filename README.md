@@ -171,3 +171,7 @@ function getRandomInteger(min, max) {
 Running the Game
 
 ![MonsterGameSampleOutput](https://user-images.githubusercontent.com/83732149/120239568-6cc5c680-c213-11eb-9a20-39270df59511.png)
+
+[Source Code](https://github.com/pozawa1/cit281-p5/blob/main/source-code-p5)
+
+[Return to Homepage](https://pozawa1.github.io/)
